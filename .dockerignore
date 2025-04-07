@@ -1,0 +1,28 @@
+# Ignore specified folders
+iterations/
+venv/
+.langgraph_api/
+.github/
+__pycache__/
+
+# Git related
+.git/
+.gitignore
+.gitattributes
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+
+# Logs
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo

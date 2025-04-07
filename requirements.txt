@@ -1,0 +1,10 @@
+langgraph
+streamlit
+pydantic-ai
+logfire
+html2text
+beautifulsoup4
+playwright
+python-dotenv
+uuid
+aiohttp 
